@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+
+# Build files
+x64/
+x86/
+Debug/
+Release/
+
+# Compiled files
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.idb
+*.tlog/
+*.lastbuildstate
+
+# Temporary files
+*.log
+*.tmp
